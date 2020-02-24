@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Gremlin Green Sparkle</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/</jalbum:absolutePath>
+        <item>
+            <title>is</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/slides/is.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/thumbs/is.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/slides/is.jpg" width="496" height="368"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/is.jpg" width="496" height="368" fileSize="50207"/>
+            <guid isPermaLink="false">slides/is.jpg</guid>
+        </item>
+        <item>
+            <title>is2</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/slides/is2.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/thumbs/is2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/slides/is2.jpg" width="368" height="500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/is2.jpg" width="368" height="500" fileSize="44432"/>
+            <guid isPermaLink="false">slides/is2.jpg</guid>
+        </item>
+        <item>
+            <title>is3</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/slides/is3.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/thumbs/is3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/slides/is3.jpg" width="368" height="500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gremlin%20Green%20Sparkle/is3.jpg" width="368" height="500" fileSize="40054"/>
+            <guid isPermaLink="false">slides/is3.jpg</guid>
+        </item>
+    </channel>
+</rss>

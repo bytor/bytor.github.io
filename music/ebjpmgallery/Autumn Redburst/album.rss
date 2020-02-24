@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Autumn Redburst</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/</jalbum:absolutePath>
+        <item>
+            <title>autumn redburst 003</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/slides/autumn%20redburst%20003.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:19 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/thumbs/autumn%20redburst%20003.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/slides/autumn%20redburst%20003.jpg" width="1500" height="2000"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/autumn%20redburst%20003.jpg" width="1944" height="2592" fileSize="2349242"/>
+            <guid isPermaLink="false">slides/autumn%20redburst%20003.jpg</guid>
+        </item>
+        <item>
+            <title>autumn redburst 003a</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/slides/autumn%20redburst%20003a.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:19 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/thumbs/autumn%20redburst%20003a.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/slides/autumn%20redburst%20003a.jpg" width="2000" height="1500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Autumn%20Redburst/autumn%20redburst%20003a.jpg" width="2592" height="1944" fileSize="817949"/>
+            <guid isPermaLink="false">slides/autumn%20redburst%20003a.jpg</guid>
+        </item>
+    </channel>
+</rss>

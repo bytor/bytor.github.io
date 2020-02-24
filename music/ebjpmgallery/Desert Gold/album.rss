@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Desert Gold</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/</jalbum:absolutePath>
+        <item>
+            <title>100_2055</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/100_2055.JPG</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:22 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/thumbs/100_2055.JPG" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/100_2055.JPG" width="2000" height="1333"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/100_2055.JPG" width="2032" height="1354" fileSize="523990"/>
+            <guid isPermaLink="false">slides/100_2055.JPG</guid>
+        </item>
+        <item>
+            <title>655c</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/655c.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:22 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/thumbs/655c.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/655c.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/655c.jpg" width="800" height="600" fileSize="350198"/>
+            <guid isPermaLink="false">slides/655c.jpg</guid>
+        </item>
+        <item>
+            <title>DGEBJPMM 009</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/DGEBJPMM%20009.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:22 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/thumbs/DGEBJPMM%20009.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/DGEBJPMM%20009.jpg" width="1752" height="1168"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/DGEBJPMM%20009.jpg" width="1752" height="1168" fileSize="341366"/>
+            <guid isPermaLink="false">slides/DGEBJPMM%20009.jpg</guid>
+        </item>
+        <item>
+            <title>DGEBJPMM 012</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/DGEBJPMM%20012.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:22 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/thumbs/DGEBJPMM%20012.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/DGEBJPMM%20012.jpg" width="1752" height="1168"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/DGEBJPMM%20012.jpg" width="1752" height="1168" fileSize="387215"/>
+            <guid isPermaLink="false">slides/DGEBJPMM%20012.jpg</guid>
+        </item>
+        <item>
+            <title>DGEBJPMM 013</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/DGEBJPMM%20013.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:22 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/thumbs/DGEBJPMM%20013.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/slides/DGEBJPMM%20013.jpg" width="1168" height="1752"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Desert%20Gold/DGEBJPMM%20013.jpg" width="1168" height="1752" fileSize="324447"/>
+            <guid isPermaLink="false">slides/DGEBJPMM%20013.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>White Sparkle</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/</jalbum:absolutePath>
+        <item>
+            <title>100B2091</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/100B2091.JPG</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:29 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/thumbs/100B2091.JPG" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/100B2091.JPG" width="1511" height="1234"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/100B2091.JPG" width="1511" height="1234" fileSize="228658"/>
+            <guid isPermaLink="false">slides/100B2091.JPG</guid>
+        </item>
+        <item>
+            <title>411587_G</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/411587_G.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:29 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/thumbs/411587_G.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/411587_G.jpg" width="800" height="599"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/411587_G.jpg" width="800" height="599" fileSize="340102"/>
+            <guid isPermaLink="false">slides/411587_G.jpg</guid>
+        </item>
+        <item>
+            <title>jpm6whitesparkle_body</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/jpm6whitesparkle_body.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:29 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/thumbs/jpm6whitesparkle_body.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/jpm6whitesparkle_body.jpg" width="489" height="800"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/jpm6whitesparkle_body.jpg" width="489" height="800" fileSize="85034"/>
+            <guid isPermaLink="false">slides/jpm6whitesparkle_body.jpg</guid>
+        </item>
+        <item>
+            <title>jpm6whitesparkle_headstock</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/jpm6whitesparkle_headstock.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:29 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/thumbs/jpm6whitesparkle_headstock.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/jpm6whitesparkle_headstock.jpg" width="662" height="374"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/jpm6whitesparkle_headstock.jpg" width="662" height="374" fileSize="58076"/>
+            <guid isPermaLink="false">slides/jpm6whitesparkle_headstock.jpg</guid>
+        </item>
+        <item>
+            <title>reny_1</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/reny_1.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:29 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/thumbs/reny_1.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/slides/reny_1.jpg" width="550" height="707"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/White%20Sparkle/reny_1.jpg" width="550" height="707" fileSize="92697"/>
+            <guid isPermaLink="false">slides/reny_1.jpg</guid>
+        </item>
+    </channel>
+</rss>

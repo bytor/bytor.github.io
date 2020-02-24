@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Radience Red</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/</jalbum:absolutePath>
+        <item>
+            <title>007</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/007.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/007.jpg" width="221" height="221"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/007.jpg" width="221" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/007.jpg" width="221" height="600" fileSize="68180"/>
+            <guid isPermaLink="false">slides/007.jpg</guid>
+        </item>
+        <item>
+            <title>680c</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/680c.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/680c.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/680c.jpg" width="524" height="402"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/680c.jpg" width="524" height="402" fileSize="201228"/>
+            <guid isPermaLink="false">slides/680c.jpg</guid>
+        </item>
+        <item>
+            <title>680c_2</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/680c_2.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/680c_2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/680c_2.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/680c_2.jpg" width="800" height="600" fileSize="324150"/>
+            <guid isPermaLink="false">slides/680c_2.jpg</guid>
+        </item>
+        <item>
+            <title>jpm6red_body</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/jpm6red_body.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/jpm6red_body.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/jpm6red_body.jpg" width="429" height="800"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/jpm6red_body.jpg" width="429" height="800" fileSize="61513"/>
+            <guid isPermaLink="false">slides/jpm6red_body.jpg</guid>
+        </item>
+        <item>
+            <title>limited_petrucci_angle</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/limited_petrucci_angle.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/limited_petrucci_angle.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/limited_petrucci_angle.jpg" width="250" height="550"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/limited_petrucci_angle.jpg" width="250" height="550" fileSize="32449"/>
+            <guid isPermaLink="false">slides/limited_petrucci_angle.jpg</guid>
+        </item>
+        <item>
+            <title>petrucci_le</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/petrucci_le.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/petrucci_le.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/petrucci_le.jpg" width="400" height="957"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/petrucci_le.jpg" width="400" height="957" fileSize="41243"/>
+            <guid isPermaLink="false">slides/petrucci_le.jpg</guid>
+        </item>
+        <item>
+            <title>Thiago-LavaJP7-02-high</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/Thiago-LavaJP7-02-high.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/thumbs/Thiago-LavaJP7-02-high.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/slides/Thiago-LavaJP7-02-high.jpg" width="1125" height="1500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Radience%20Red/Thiago-LavaJP7-02-high.jpg" width="1125" height="1500" fileSize="340139"/>
+            <guid isPermaLink="false">slides/Thiago-LavaJP7-02-high.jpg</guid>
+        </item>
+    </channel>
+</rss>

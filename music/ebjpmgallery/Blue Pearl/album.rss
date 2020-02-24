@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Blue Pearl</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/</jalbum:absolutePath>
+        <item>
+            <title>500c</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/slides/500c.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 15:41:34 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/thumbs/500c.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/slides/500c.jpg" width="800" height="1786"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/500c.jpg" width="800" height="1786" fileSize="202547"/>
+            <guid isPermaLink="false">slides/500c.jpg</guid>
+        </item>
+        <item>
+            <title>500c_2</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/slides/500c_2.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 15:41:34 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/thumbs/500c_2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/slides/500c_2.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/500c_2.jpg" width="800" height="600" fileSize="383467"/>
+            <guid isPermaLink="false">slides/500c_2.jpg</guid>
+        </item>
+        <item>
+            <title>jpm6blue_body</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/slides/jpm6blue_body.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 15:41:34 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/thumbs/jpm6blue_body.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/slides/jpm6blue_body.jpg" width="800" height="504"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Blue%20Pearl/jpm6blue_body.jpg" width="800" height="504" fileSize="59583"/>
+            <guid isPermaLink="false">slides/jpm6blue_body.jpg</guid>
+        </item>
+    </channel>
+</rss>

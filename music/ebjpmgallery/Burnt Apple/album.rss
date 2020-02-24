@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Burnt Apple</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/</jalbum:absolutePath>
+        <item>
+            <title>badpet_body</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/slides/badpet_body.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:21 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/thumbs/badpet_body.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/slides/badpet_body.jpg" width="864" height="570"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/badpet_body.jpg" width="864" height="570" fileSize="91725"/>
+            <guid isPermaLink="false">slides/badpet_body.jpg</guid>
+        </item>
+        <item>
+            <title>badpet_full1</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/slides/badpet_full1.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:21 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/thumbs/badpet_full1.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/slides/badpet_full1.jpg" width="433" height="1115"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Burnt%20Apple/badpet_full1.jpg" width="433" height="1115" fileSize="92609"/>
+            <guid isPermaLink="false">slides/badpet_full1.jpg</guid>
+        </item>
+    </channel>
+</rss>

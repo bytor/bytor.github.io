@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mystic Dream</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/</jalbum:absolutePath>
+        <item>
+            <title>671c</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/671c.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:26 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/thumbs/671c.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/671c.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/671c.jpg" width="800" height="600" fileSize="301797"/>
+            <guid isPermaLink="false">slides/671c.jpg</guid>
+        </item>
+        <item>
+            <title>mysticbody2</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticbody2.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:26 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/thumbs/mysticbody2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticbody2.jpg" width="600" height="984"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/mysticbody2.jpg" width="600" height="984" fileSize="100261"/>
+            <guid isPermaLink="false">slides/mysticbody2.jpg</guid>
+        </item>
+        <item>
+            <title>mysticbody3</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticbody3.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:26 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/thumbs/mysticbody3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticbody3.jpg" width="600" height="976"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/mysticbody3.jpg" width="600" height="976" fileSize="105755"/>
+            <guid isPermaLink="false">slides/mysticbody3.jpg</guid>
+        </item>
+        <item>
+            <title>mysticbody5</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticbody5.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:26 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/thumbs/mysticbody5.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticbody5.jpg" width="460" height="796"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/mysticbody5.jpg" width="460" height="796" fileSize="69324"/>
+            <guid isPermaLink="false">slides/mysticbody5.jpg</guid>
+        </item>
+        <item>
+            <title>mysticheadstockpurple2</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticheadstockpurple2.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:26 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/thumbs/mysticheadstockpurple2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/slides/mysticheadstockpurple2.jpg" width="800" height="578"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Mystic%20Dream/mysticheadstockpurple2.jpg" width="800" height="578" fileSize="129462"/>
+            <guid isPermaLink="false">slides/mysticheadstockpurple2.jpg</guid>
+        </item>
+    </channel>
+</rss>

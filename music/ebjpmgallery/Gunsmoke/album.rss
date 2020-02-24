@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Gunsmoke</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Gunsmoke/</jalbum:absolutePath>
+        <item>
+            <title>BackGS</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/BackGS.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/thumbs/BackGS.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/BackGS.jpg" width="1310" height="431"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/BackGS.jpg" width="1310" height="431" fileSize="73009"/>
+            <guid isPermaLink="false">slides/BackGS.jpg</guid>
+        </item>
+        <item>
+            <title>dtgp22</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/dtgp22.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/thumbs/dtgp22.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/dtgp22.jpg" width="334" height="500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/dtgp22.jpg" width="334" height="500" fileSize="42450"/>
+            <guid isPermaLink="false">slides/dtgp22.jpg</guid>
+        </item>
+        <item>
+            <title>FrontGS</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/FrontGS.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/thumbs/FrontGS.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/FrontGS.jpg" width="900" height="364"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/FrontGS.jpg" width="900" height="364" fileSize="46689"/>
+            <guid isPermaLink="false">slides/FrontGS.jpg</guid>
+        </item>
+        <item>
+            <title>FrontGS1</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/FrontGS1.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/thumbs/FrontGS1.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/slides/FrontGS1.jpg" width="453" height="361"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gunsmoke/FrontGS1.jpg" width="453" height="361" fileSize="37614"/>
+            <guid isPermaLink="false">slides/FrontGS1.jpg</guid>
+        </item>
+    </channel>
+</rss>

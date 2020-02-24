@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Medallion Gold</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/</jalbum:absolutePath>
+        <item>
+            <title>595c</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/595c.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/595c.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/595c.jpg" width="800" height="872"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/595c.jpg" width="800" height="872" fileSize="549518"/>
+            <guid isPermaLink="false">slides/595c.jpg</guid>
+        </item>
+        <item>
+            <title>595c1</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/595c1.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/595c1.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/595c1.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/595c1.jpg" width="800" height="600" fileSize="380130"/>
+            <guid isPermaLink="false">slides/595c1.jpg</guid>
+        </item>
+        <item>
+            <title>BoughtTheEBMM</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/BoughtTheEBMM.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/BoughtTheEBMM.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/BoughtTheEBMM.jpg" width="466" height="580"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/BoughtTheEBMM.jpg" width="466" height="580" fileSize="85390"/>
+            <guid isPermaLink="false">slides/BoughtTheEBMM.jpg</guid>
+        </item>
+        <item>
+            <title>JP011</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP011.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/JP011.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP011.jpg" width="826" height="650"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/JP011.jpg" width="826" height="650" fileSize="163599"/>
+            <guid isPermaLink="false">slides/JP011.jpg</guid>
+        </item>
+        <item>
+            <title>JP7_Back</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP7_Back.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/JP7_Back.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP7_Back.jpg" width="300" height="879"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/JP7_Back.jpg" width="300" height="879" fileSize="126853"/>
+            <guid isPermaLink="false">slides/JP7_Back.jpg</guid>
+        </item>
+        <item>
+            <title>JP7_Body</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP7_Body.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/JP7_Body.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP7_Body.jpg" width="500" height="651"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/JP7_Body.jpg" width="500" height="651" fileSize="126559"/>
+            <guid isPermaLink="false">slides/JP7_Body.jpg</guid>
+        </item>
+        <item>
+            <title>JP7_Full</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP7_Full.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:25 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/thumbs/JP7_Full.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/slides/JP7_Full.jpg" width="300" height="710"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Medallion%20Gold/JP7_Full.jpg" width="300" height="710" fileSize="118288"/>
+            <guid isPermaLink="false">slides/JP7_Full.jpg</guid>
+        </item>
+    </channel>
+</rss>

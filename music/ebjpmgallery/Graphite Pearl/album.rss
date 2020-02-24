@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Graphite Pearl</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/</jalbum:absolutePath>
+        <item>
+            <title>638c_2</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/638c_2.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/thumbs/638c_2.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/638c_2.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/638c_2.jpg" width="800" height="600" fileSize="344203"/>
+            <guid isPermaLink="false">slides/638c_2.jpg</guid>
+        </item>
+        <item>
+            <title>graphite</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/graphite.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/thumbs/graphite.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/graphite.jpg" width="1200" height="908"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/graphite.jpg" width="1200" height="908" fileSize="180240"/>
+            <guid isPermaLink="false">slides/graphite.jpg</guid>
+        </item>
+        <item>
+            <title>Picture 001</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/Picture%20001.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/thumbs/Picture%20001.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/Picture%20001.jpg" width="2000" height="1500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/Picture%20001.jpg" width="2304" height="1728" fileSize="909682"/>
+            <guid isPermaLink="false">slides/Picture%20001.jpg</guid>
+        </item>
+        <item>
+            <title>Picture 002</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/Picture%20002.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/thumbs/Picture%20002.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/slides/Picture%20002.jpg" width="2000" height="1500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Graphite%20Pearl/Picture%20002.jpg" width="2304" height="1728" fileSize="899064"/>
+            <guid isPermaLink="false">slides/Picture%20002.jpg</guid>
+        </item>
+    </channel>
+</rss>

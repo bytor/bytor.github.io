@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Gold Sparkle</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/</jalbum:absolutePath>
+        <item>
+            <title>namm03ggg</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/slides/namm03ggg.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/thumbs/namm03ggg.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/slides/namm03ggg.jpg" width="640" height="480"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/namm03ggg.jpg" width="640" height="480" fileSize="91870"/>
+            <guid isPermaLink="false">slides/namm03ggg.jpg</guid>
+        </item>
+        <item>
+            <title>namm03gggg</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/slides/namm03gggg.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/thumbs/namm03gggg.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/slides/namm03gggg.jpg" width="348" height="258"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/namm03gggg.jpg" width="348" height="258" fileSize="36805"/>
+            <guid isPermaLink="false">slides/namm03gggg.jpg</guid>
+        </item>
+        <item>
+            <title>NickJP3</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/slides/NickJP3.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:24 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/thumbs/NickJP3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/slides/NickJP3.jpg" width="288" height="511"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Gold%20Sparkle/NickJP3.jpg" width="288" height="511" fileSize="43357"/>
+            <guid isPermaLink="false">slides/NickJP3.jpg</guid>
+        </item>
+    </channel>
+</rss>

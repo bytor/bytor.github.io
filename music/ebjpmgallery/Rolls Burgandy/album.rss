@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Rolls Burgandy</title>
+   	<link>..</link>
+        <generator>jAlbum 19.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/</jalbum:absolutePath>
+        <item>
+            <title>4</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/4.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/thumbs/4.jpg" width="179" height="179"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/4.jpg" width="179" height="500"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/4.jpg" width="179" height="500" fileSize="44654"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>4b_3</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/4b_3.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/thumbs/4b_3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/4b_3.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/4b_3.jpg" width="800" height="600" fileSize="49530"/>
+            <guid isPermaLink="false">slides/4b_3.jpg</guid>
+        </item>
+        <item>
+            <title>9e_3</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/9e_3.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/thumbs/9e_3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/9e_3.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/9e_3.jpg" width="800" height="600" fileSize="55139"/>
+            <guid isPermaLink="false">slides/9e_3.jpg</guid>
+        </item>
+        <item>
+            <title>d8_3</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/d8_3.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/thumbs/d8_3.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/d8_3.jpg" width="800" height="600"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/d8_3.jpg" width="800" height="600" fileSize="52631"/>
+            <guid isPermaLink="false">slides/d8_3.jpg</guid>
+        </item>
+        <item>
+            <title>rb</title>
+            <link>http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/rb.jpg</link>
+            <pubDate>Mon, 24 Feb 2020 14:37:27 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/thumbs/rb.jpg" width="240" height="240"/>
+            <media:content type="image/jpeg" url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/slides/rb.jpg" width="480" height="360"/>
+            <jalbum:original url="http://bytor.github.io/music/ebjpmgallery/Rolls%20Burgandy/rb.jpg" width="480" height="360" fileSize="25144"/>
+            <guid isPermaLink="false">slides/rb.jpg</guid>
+        </item>
+    </channel>
+</rss>
